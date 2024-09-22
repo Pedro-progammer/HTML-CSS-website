@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: rgb(34, 34, 34);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+a{
+  color: white;
+  background-color: rgb(122, 1, 1);
+}
+
+.p1{
+    text-align: center;
+
+}
